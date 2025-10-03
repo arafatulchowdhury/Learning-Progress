@@ -1,4 +1,4 @@
-Week !:
+Week 1 :
 * Completed Network Fundamentals.osl model ,packets and frame ,dns in details ,
   http in details ,website backend and frontend ,how website work ,
   linux fundamentals part 1,2,3 from TRYHACKME..
